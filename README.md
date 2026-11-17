@@ -1,11 +1,11 @@
 # EMBERHOLD — Last Lantern
 
-[![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/c/best-game-01)
-[![rank](https://make.fun/badge/best-game-01/KuntoSadewo/best-game-01/rank.svg)](https://make.fun/c/best-game-01)
-[![reward](https://make.fun/badge/best-game-01/KuntoSadewo/best-game-01/reward.svg)](https://make.fun/c/best-game-01)
+[![best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/KuntoSadewo/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/KuntoSadewo/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01)
 
 An original top-down arena survival shooter, built for the
-[best-game-01](https://make.fun/c/best-game-01) bounty on make.fun.
+[best-game-01](https://make.fun/bounty/best-game-01) bounty on make.fun.
 
 The dark has swallowed the valley. You hold the last lantern. Survive all
 10 waves of shadow — wisps, skitters, spitters, brutes and splitters — slay
