@@ -1,0 +1,37 @@
+/* EMBERHOLD page chrome: centres the 1280x720 canvas on a dark backdrop. */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #07080f;
+  height: 100%;
+  overflow: hidden;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+#stage {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+#game {
+  width: min(1280px, 96vw);
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 1px solid #2a2440;
+  border-radius: 8px;
+  box-shadow: 0 0 60px rgba(255, 170, 60, 0.10), 0 0 120px rgba(80, 60, 180, 0.25);
+  cursor: crosshair;
+  background: #0a0b16;
+  image-rendering: auto;
+}
+
+#hint {
+  color: #6f6a8a;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  user-select: none;
+}
